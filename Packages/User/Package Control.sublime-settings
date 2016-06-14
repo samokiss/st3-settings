@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"auto-save",
+		"BracketHighlighter",
+		"Package Control",
+		"PHP Companion",
+		"Phpcs",
+		"PhpDoc",
+		"SFTP",
+		"SideBarEnhancements",
+		"sublime-github",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-check-source-formatting",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"Terminal",
+		"TrailingSpaces",
+		"VCS Gutter",
+		"Xdebug Client"
+	]
+}
