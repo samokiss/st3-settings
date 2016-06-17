@@ -701,7 +701,9 @@ and don't need to be repeated here. Anything listed here will take precedence, h
 	},
 
 	{ "keys": ["ctrl+shift+s"], "command": "auto_save" },
-	{ "keys": ["super+alt+l"], "command": "reindent" , "args": { "single_line": false } }
+	{ "keys": ["super+alt+l"], "command": "reindent" , "args": { "single_line": false } },
+	{ "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" },
+	{ "keys": ["ctrl+shift+d"], "command": "toggle_trailing_spaces" }
 
 
 ]
